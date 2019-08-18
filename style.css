@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600i&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Montserrat";
+    font-style: italic;
+}
+header {
+background-image: url('images/banner.jpg');
+background-size: cover;
+background-repeat: no-repeat;  
+ 
+}
+
+header .container h1 {
+    font-size: 9vmin;
+    color: whitesmoke;
+    margin-left: 7rem; 
+    margin-top : 5rem;
+}
+span {
+    color: #FFF700;
+}
+header .container p {
+    font-size: 2.5vmin; 
+    margin-top: .8rem;
+    color: rgba(245, 245, 245, 0.726);
+    margin-left: 7rem; 
+}
+header .container .btn {
+    margin-left: 7rem;
+    border:0px;
+    border-radius: 5rem;
+    background-color: yellow;
+    width: 35vmin;  
+    font-size: 2vmin;  
+    
+}
+header img {
+    margin-left: 10rem;
+}
+
+
+
+
+
+/*SECTION-1*/
+
+
+
+.projects {
+    text-align: center;
+}
+.projects h1 {
+    font-size: 2rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.section-1 .container {
+    padding-bottom: 10rem; 
+}
+
+.section-1 .container .card{
+    border-radius: 5rem;
+    background-image: linear-gradient(#0EAEEE , #0B72FF);
+}
+.section-1 .container i {
+    padding-top: 4rem; 
+    padding-bottom: 2.5rem; 
+    background: -webkit-linear-gradient(#8FECF2 , #0BB6F6);
+	background: linear-gradient(#8FECF2, #0BB6F6);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.section-1 .container .card-body{
+    padding: 3rem;
+}
+.section-1 .container h5 {
+    color: white;
+    font-size: 1.8rem;
+}
+.section-1 .container p {
+    color: rgba(255, 255, 255, 0.692);
+    font-size: .8rem;
+}
+.section-1 .container .btn {
+    border-radius: 20rem;
+    border: 0;
+    font-size: .8rem;
+    background-color: yellow;
+    color: blue;
+}
+
+
+/*SECTION-2*/
+
+
+.section-2 {
+    background-image: url('images/Contact-background.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;  
+
+}
+ .section-2 .contact {
+     text-align: center;
+     padding-top: 3rem; 
+     padding-bottom: 3rem; 
+ }
+   
+  form input {
+      margin-top: 1rem;
+      padding: 1rem;
+      border-radius: 5rem; 
+      border: 0px;
+      width: 98vmin;
+
+  }
+  form textarea {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 2rem; 
+    border: 0px;
+    width: 98vmin;
+}
+   form button {
+    margin-top: 2rem; 
+    margin-bottom: 3rem;
+    padding: 1rem;
+    border-radius: 2rem; 
+    border: 0px;
+    width: 15rem;
+    background-color: rgba(255, 255, 0, 0.89);
+   }
+   form button:hover {
+    background-color: rgb(251, 255, 0);
+   }
+
+
+
+ /*footer*/
+
+ footer {
+     background-color: black;
+     color: rgba(255, 255, 255, 0.486);
+ }
+ footer h6 {
+     margin-top: .5rem;
+     font-size:  .7rem;
+ }
+ footer i {
+    margin-top: .4rem;
+    padding: 0 1rem;
+}
+footer a {
+    color: white;
+}
+footer a:hover {
+    color: rgb(0, 217, 255);
+}

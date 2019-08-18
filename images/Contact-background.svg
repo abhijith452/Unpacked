@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4937ff"/>
+      <stop offset="1" stop-color="#0eabef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#13a0f0"/>
+      <stop offset="1" stop-color="#463cfe"/>
+    </linearGradient>
+    <filter id="Ellipse_3" x="161" y="518" width="41" height="40" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="1695.541" y="127.31" width="35.918" height="35.38" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-3" x="103.2" y="207" width="36.6" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-4" x="1664.415" y="440.378" width="40.169" height="39.245" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-5" x="1450.415" y="299.378" width="40.169" height="39.245" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-6" x="470.415" y="197.378" width="40.169" height="39.245" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Contact-background" transform="translate(-1 -2160)">
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="1920" height="1080" transform="translate(1 2160)" fill="url(#linear-gradient)"/>
+    <g id="Group_17" data-name="Group 17">
+      <g id="Group_1" data-name="Group 1">
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="21" height="572" rx="10.5" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1551.539, 2705.579)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(1540 2683)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(237.146 148.377)">
+        <rect id="Rectangle_27-2" data-name="Rectangle 27" width="7.2" height="196.122" rx="3.6" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1539.966, 2382.825)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="2.914" cy="2.743" rx="2.914" ry="2.743" transform="translate(1536.009 2375.083)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(-63.608 76.579)">
+        <rect id="Rectangle_27-3" data-name="Rectangle 27" width="12.656" height="344.72" rx="6.328" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1544.541, 2510.421)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-3" data-name="Ellipse 2" cx="5.123" cy="4.821" rx="5.123" ry="4.821" transform="translate(1537.587 2496.814)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_4" data-name="Group 4">
+        <rect id="Rectangle_27-4" data-name="Rectangle 27" width="21" height="572" rx="10.5" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1551.539, 2705.579)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-4" data-name="Ellipse 2" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(1540 2683)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(151.329 294.578)">
+        <rect id="Rectangle_27-5" data-name="Rectangle 27" width="14.195" height="386.647" rx="7.098" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1545.832, 2546.422)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-5" data-name="Ellipse 2" cx="5.746" cy="5.408" rx="5.746" ry="5.408" transform="translate(1538.032 2531.16)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(-1128 -31)">
+        <rect id="Rectangle_27-6" data-name="Rectangle 27" width="21" height="572" rx="10.5" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1551.539, 2705.579)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-6" data-name="Ellipse 2" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(1540 2683)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(-1341.393 57.579)">
+        <rect id="Rectangle_27-7" data-name="Rectangle 27" width="15.563" height="423.913" rx="7.782" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1546.98, 2578.421)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-7" data-name="Ellipse 2" cx="6.299" cy="5.929" rx="6.299" ry="5.929" transform="translate(1538.428 2561.688)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(-1403.143 57.579)">
+        <rect id="Rectangle_27-8" data-name="Rectangle 27" width="9.406" height="256.211" rx="4.703" transform="matrix(-0.839, -0.545, 0.545, -0.839, 1541.816, 2434.421)" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_2-8" data-name="Ellipse 2" cx="3.807" cy="3.583" rx="3.807" ry="3.583" transform="translate(1536.647 2424.308)" fill="#fff" opacity="0.4"/>
+      </g>
+      <g id="Group_9" data-name="Group 9">
+        <g transform="matrix(1, 0, 0, 1, 1, 2160)" filter="url(#Ellipse_3)">
+          <ellipse id="Ellipse_3-7" data-name="Ellipse 3" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(176 533)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="3.5" cy="3.5" r="3.5" transform="translate(179 2695)" fill="#fff" opacity="0.38"/>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(1534.541 -390.69)">
+        <g transform="matrix(1, 0, 0, 1, -1533.54, 2550.69)" filter="url(#Ellipse_3-2)">
+          <ellipse id="Ellipse_3-8" data-name="Ellipse 3" cx="2.959" cy="2.69" rx="2.959" ry="2.69" transform="translate(1710.54 142.31)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="1.883" cy="1.883" r="1.883" transform="translate(178.076 2694.076)" fill="#fff" opacity="0.38"/>
+      </g>
+      <g id="Group_11" data-name="Group 11" transform="translate(-57.8 -311)">
+        <g transform="matrix(1, 0, 0, 1, 58.8, 2471)" filter="url(#Ellipse_3-3)">
+          <ellipse id="Ellipse_3-9" data-name="Ellipse 3" cx="3.3" cy="3" rx="3.3" ry="3" transform="translate(118.2 222)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4-3" data-name="Ellipse 4" cx="2.1" cy="2.1" r="2.1" transform="translate(178.2 2694.2)" fill="#fff" opacity="0.38"/>
+      </g>
+      <g id="Group_12" data-name="Group 12" transform="translate(1503.415 -77.622)">
+        <g transform="matrix(1, 0, 0, 1, -1502.42, 2237.62)" filter="url(#Ellipse_3-4)">
+          <ellipse id="Ellipse_3-10" data-name="Ellipse 3" cx="5.085" cy="4.622" rx="5.085" ry="4.622" transform="translate(1679.42 455.38)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4-4" data-name="Ellipse 4" cx="3.236" cy="3.236" r="3.236" transform="translate(178.849 2694.849)" fill="#fff" opacity="0.38"/>
+      </g>
+      <g id="Group_13" data-name="Group 13" transform="translate(1289.415 -218.622)">
+        <g transform="matrix(1, 0, 0, 1, -1288.42, 2378.62)" filter="url(#Ellipse_3-5)">
+          <ellipse id="Ellipse_3-11" data-name="Ellipse 3" cx="5.085" cy="4.622" rx="5.085" ry="4.622" transform="translate(1465.42 314.38)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4-5" data-name="Ellipse 4" cx="3.236" cy="3.236" r="3.236" transform="translate(178.849 2694.849)" fill="#fff" opacity="0.38"/>
+      </g>
+      <g id="Group_14" data-name="Group 14" transform="translate(309.415 -320.622)">
+        <g transform="matrix(1, 0, 0, 1, -308.42, 2480.62)" filter="url(#Ellipse_3-6)">
+          <ellipse id="Ellipse_3-12" data-name="Ellipse 3" cx="5.085" cy="4.622" rx="5.085" ry="4.622" transform="translate(485.42 212.38)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4-6" data-name="Ellipse 4" cx="3.236" cy="3.236" r="3.236" transform="translate(178.849 2694.849)" fill="#fff" opacity="0.38"/>
+      </g>
+    </g>
+  </g>
+</svg>

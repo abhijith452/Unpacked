@@ -1,0 +1,189 @@
+@media only screen and (max-width: 1200px){
+    header img {
+        display: none;
+    }
+
+
+    
+}
+
+@media only screen and (max-width: 768px){
+    header .container h1 {
+        margin-bottom: 2rem; 
+        margin-left: 2.2rem; 
+        font-size: 12vmin; 
+      
+    }
+    header .container p {
+        
+        margin-left: 2.2rem; 
+        font-size: 4vmin;
+    }
+    header .container .btn {
+       
+        margin-left: 2.2rem; 
+        margin-bottom: 5rem;
+    }
+
+
+    /*SECTION-1*/
+
+    .projects h1 {
+        font-size: 6vmin;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    .section-1 .container .row {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+    }
+    .section-1 .container .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .section-1 .container i {
+        padding-left: 8rem !important;
+        padding-right: 8rem !important; 
+    
+    }
+    /*SECTION-2*/
+
+form input {
+    width: 70vmin;
+}
+form textarea {
+  width: 70vmin;
+}
+ form button {
+  width: 10rem;
+
+ }
+ footer {
+    height: 10rem;
+}
+footer i {
+    margin-top: 3rem; 
+    
+}
+}
+
+/* Mobile View */
+
+
+@media only screen and (max-width: 425px)
+{
+    header .container h1 {
+        margin-left: 2.2rem; 
+        font-size: 12vmin; 
+      
+    }
+    header .container p {
+        
+        margin-left: 2.2rem; 
+        font-size: 4vmin;
+    }
+    header .container .btn {
+       
+        margin-left: 2.2rem; 
+        margin-bottom: 5rem;
+    }
+
+
+    /*SECTION-1*/
+
+    .projects h1 {
+        font-size: 6vmin;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    .section-1 .container .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    /*SECTION-2*/
+
+form input {
+    width: 70vmin;
+}
+form textarea {
+  width: 70vmin;
+}
+ form button {
+  width: 10rem;
+
+ }
+ footer {
+    height: 10rem;
+}
+footer i {
+    margin-top: 3rem; 
+    
+}
+}
+
+/* 320px Mobile view*/
+
+
+
+@media only screen and(max-width: 320px)
+{
+    header img {
+      display: none;
+    }
+    header .container h1 {
+        margin-left: 2.2rem; 
+        font-size: 12vmin; 
+      
+    }
+    header .container p {
+        
+        margin-left: 2.2rem; 
+        font-size: 4vmin;
+    }
+    header .container .btn {
+       
+        margin-left: 2.2rem; 
+        margin-bottom: 5rem;
+    }
+
+
+    /*SECTION-1*/
+
+    .projects h1 {
+        font-size: 6vmin;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    .section-1 .container .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 2rem;
+    }
+   
+
+
+/*SECTION-2*/
+
+form input {
+    width: 80vmin;
+}
+form textarea {
+  width: 80vmin;
+}
+ form button {
+  width: 10rem;
+ }
+
+footer {
+    height: 10rem;
+}
+}
