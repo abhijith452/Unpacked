@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: "Montserrat";
     font-style: italic;
@@ -44,8 +45,13 @@ header img {
     margin-left: 10rem;
 }
 
-
-
+#navbarNav {
+   margin-left: 65%; 
+}
+#navbarNav a {
+    font-size: 15px;
+    margin-right: 10px; 
+}
 
 
 /*SECTION-1*/

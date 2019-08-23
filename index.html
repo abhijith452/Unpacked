@@ -8,20 +8,40 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css" integrity="sha384-wxqG4glGB3nlqX0bi23nmgwCSjWIW13BdLUEYC4VIMehfbcro/ATkyDsF/AbIOVe" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="mobile-style.css">
-    <title>Document</title>
+    <title>Unpacked Website</title>
 </head>
 <body>
     <header>
-            <nav class="navbar navbar-dark bg-dark">
-                    <a class="navbar-brand" href="#">Unpacked</a>
-            </nav>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Unpacked</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.youtube.com/channel/UCEgtYsqPD3AzzaqdxppI5Ww">Videos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact me</a>
+            </li>
+            
+          </ul>
+        </div>
+      </nav>
             <div class="container">
                     <div class="row">
                         <div class="col-md-7 col-sm-12 col-xs-12 text-left">
                             <h1>Unpacking <br><span>Technology</span> of<br> Future</h6>
                                 <p>A personal blog made for the techies<br> created by techie</p>
                                 <p>Click here to see the latest post</p>
-                        <button class="btn btn-light px-5 py-2">Take</button>
+                        <button class="btn btn-light px-5 py-2">Take me there</button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-xs-12" h-25>
                             <img src="images/mountains.png" height="600px" alt="mountains">
@@ -82,12 +102,25 @@
      <section class="section-2">
          <div class="contact"><h1>Contact <span>Me</span></h1></div>
          <div class="container text-center">
-            <form>
-                <input type="name" placeholder="Name">
+            <form name="contact" method="POST" data-netlify="true">
+                    <p>
+                            <label> <input type="text" name="name" placeholder="Name"/></label>   
+                          </p>
+                          <p>
+                            <label> <input type="email" name="email" placeholder="E-mail"/></label>
+                          </p>
+                          <label><input type="text" name="subject" placeholder="Subject" /></label>
+                          <p>
+                            <label><textarea name="message" placeholder="Message"></textarea></label>
+                          </p>
+                          <p>
+                            <button type="submit">Send</button>
+                          </p>
+             <!--  <input type="name" placeholder="Name">
                 <input type="email" placeholder="E-mail">
                 <input type="text" placeholder="Subject"><br>
                 <textarea placeholder="Message"></textarea><br>
-                <button type="submit" value="Sent">Sent</button>
+                <button type="submit" value="Sent">Sent</button>--> 
             </form>
          </div>
      </section>   

@@ -1,11 +1,50 @@
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1100px){
     header img {
         display: none;
     }
+    header .container h1 {
+        margin-bottom: 2rem; 
+        margin-left: 2.2rem; 
+        font-size: 12vmin; 
+      
+    }
+    header .container p {
+        
+        margin-left: 2.2rem; 
+        font-size: 4vmin;
+    }
+    header .container .btn {
+       
+        margin-left: 2.2rem; 
+        margin-bottom: 5rem;
+    }
+
 
 
     
 }
+@media only screen and (max-width: 991px){
+
+    .projects h1 {
+        font-size: 6vmin;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+    .section-1 .container .row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        margin-right: 7rem;
+
+    }
+    .section-1 .container .card{
+      width: 300px;
+      margin-top: 2rem;
+    }
+
+}
+
 
 @media only screen and (max-width: 768px){
     header .container h1 {
@@ -35,13 +74,14 @@
     }
     .section-1 .container .row {
      display: flex;
-     flex-direction: column;
-     align-items: center;
+     margin-right: 0rem;
+     
     }
     .section-1 .container .card{
+        width: 300px;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        margin: auto;
         align-items: center;
         margin-top: 2rem;
     }
@@ -50,6 +90,8 @@
         padding-right: 8rem !important; 
     
     }
+
+ 
     /*SECTION-2*/
 
 form input {
