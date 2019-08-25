@@ -22,6 +22,11 @@ header .container h1 {
     color: whitesmoke;
     margin-left: 7rem; 
     margin-top : 5rem;
+    opacity: 0;
+    position: relative;
+    animation: texthead;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
 span {
     color: #FFF700;
@@ -31,6 +36,11 @@ header .container p {
     margin-top: .8rem;
     color: rgba(245, 245, 245, 0.726);
     margin-left: 7rem; 
+    opacity: 0;
+    position: relative;
+    animation: texthead;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
 header .container .btn {
     margin-left: 7rem;
@@ -39,8 +49,18 @@ header .container .btn {
     background-color: yellow;
     width: 35vmin;  
     font-size: 2vmin;  
-    
+    opacity: 0;
+    position: relative;
+    animation: texthead;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
 }
+
+@keyframes texthead {
+    0% {top: -5rem; opacity: 0;}
+    100% {top: 0rem; opacity: 1;}
+}
+
 header img {
     margin-left: 10rem;
 }
